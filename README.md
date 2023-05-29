@@ -4,7 +4,7 @@
 
 ## Security policy
 
-StaFi's security policy is available at https://github.com/stafiprotocol/stafi-bootstrap/blob/master/SECURITY.md
+StaFi's security policy is available at https://github.com/stafiprotocol/security/blob/main/SECURITY.md
 
 ## About
 
