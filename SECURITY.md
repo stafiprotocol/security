@@ -5,7 +5,6 @@ This document describes the Security Process for StaFi Protocol, including vulne
 To submit a finding, please follow the steps outlined in receiving disclosures section.
 
 ## Responsible Disclosure Standard
----
 
 StaFi follows a community [standard](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#the-standard) for responsible disclosure in cryptocurrency and related software. This document is a public commitment to following the standard.
 
