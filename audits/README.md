@@ -8,6 +8,7 @@ Each review is listed in the table below.
 
 | Name/Company | Date | Description | Report | Code |
 | ------------ | ---- | ----------- | ------ | ----- |
+| Zellic | 2024.03.10 | StaFi Cosmos LSD Audit | [Audit Report](/audits/202403_PeckShield_StaFi_CosmWasm) | [code repo](https://github.com/stafiprotocol/neutron-lsd-contracts) |
 | Zellic | 2023.07.12 | StaFi MATIC Staking Contrct Audit | [Audit Report](/audits/202307_Zellic_StaFi-MATICStaking) | [code repo](https://github.com/stafiprotocol/rtoken-contracts/tree/main/contracts/rmatic) |
 | Block Sec | 2023.06.13 | StaFi BNB Staking Contrct Audit | [Audit Report](/audits/202306_BlockSec_StaFi-BNBStaking) | [code repo](https://github.com/stafiprotocol/rtoken-contracts/tree/main/contracts/rbnb) |
 | Peck Shield | 2023.05.23 | StaFi ETH Withdraw Contrct Audit | [Audit Report](/audits/202305_PeckShield_StaFi-ETHWithdraw) | [code repo](https://github.com/stafiprotocol/eth2-staking/tree/v3/contracts/withdraw) |
